@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Archit, a Duke AI Master's graduate with a knack for turning complex problems into innovative, user-centric solutions. I am a "Deep and Narrow" engineer with 4 years of hands-on experience. I've had the privilege of driving AI adoption at Viatris, driving NLP solutions, and leading data science initiatives that have saved millions for businesses.
+
+🔍 My expertise lies in PyTorch, TensorFlow, NLP, and Large Language Models like GPT / Falcon / LLaMa2. I've also got my hands dirty with AWS Sagemaker, Azure, and MLOps, ensuring that the solutions I build are not just smart but also scalable and robust.
+
+🌱 I'm deeply committed to the transformative power of AI and ML, and I'm always eager to collaborate on projects that push the envelope. Let's connect and make technology work for us!
+
+🍕 Feel free to reach out at [archit.kaila@gmail.com] for collaborations. I am always eager to discuss the latest happenings in AI, NLP, Computer Vision, and Large Language Models over a slice of pizza!
+
 <!--
 **architkaila/architkaila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
